@@ -7,3 +7,8 @@ This is a sample readme file.
 Changed something
 
 Adding updates from branch
+
+Stashing test
+
+Updating readme for testing reset
+Make some change after adding to stage
